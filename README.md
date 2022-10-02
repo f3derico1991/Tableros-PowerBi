@@ -1,10 +1,26 @@
 # Tableros-PowerBi
+En este repositorio presento algunos de los dashboars que elaborados para algunos de los cursos que he realizado.
 
+1. [Gasto militar mundial](#id1)
+2. [Producciones Disney Plus](#id2)
 
+## 1. Dashboard sobre gasto militar mundial  <a name="id1"></a>
 
+### Acerca de este conjunto de datos:
+Datos de gastos militares anuales en términos de valor actual de USD ($) para países, regiones autónomas semiautónomas, regiones agrupadas en función de la geografía o la economía, y todo el mundo desde el año 1960 hasta 2018
+
+### Resultado final
 <img align="center" alt="GIF" src="https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/gasto-militar-utn/Animation.gif?raw=true" width="500" height="320" />
 
+### Archivo .pbix:
+https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/disneyplus-coderhouse/Disney.pbix
 
+## 2. Producciones Disney Plus  <a name="id2"></a>
 
+Acerca de este conjunto de datos: Disney+ es otra de las plataformas de transmisión de video y medios más populares. Tienen cerca de 1300 películas o programas de televisión disponibles en su plataforma, a mediados de 2021, tienen más de 116 millones de suscriptores en todo el mundo. Este conjunto de datos tabulares consta de listados de todas las películas y programas de televisión disponibles en Amazon Prime, junto con detalles como: elenco, directores, calificaciones, año de estreno, duración, etc.
 
+### Acerca de este conjunto de datos:
 <img align="center" alt="GIF" src="https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/disneyplus-coderhouse/disney_coder.gif?raw=true" width="500" height="320" />
+
+### Archivo .pbix:
+https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/gasto-militar-utn/Herrera-federico.pbix
