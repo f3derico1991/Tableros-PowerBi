@@ -13,7 +13,8 @@ Datos de gastos militares anuales en términos de valor actual de USD ($) para p
 <img align="center" alt="GIF" src="https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/gasto-militar-utn/Animation.gif?raw=true" width="500" height="320" />
 
 ### Archivo .pbix:
-https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/disneyplus-coderhouse/Disney.pbix
+Link de descarga al archivo final del darboard final: [Archivo pbix gasto militar](https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/disneyplus-coderhouse/Disney.pbix)
+
 
 ## 2. Producciones Disney Plus  <a name="id2"></a>
 
@@ -23,4 +24,5 @@ Acerca de este conjunto de datos: Disney+ es otra de las plataformas de transmis
 <img align="center" alt="GIF" src="https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/disneyplus-coderhouse/disney_coder.gif?raw=true" width="500" height="320" />
 
 ### Archivo .pbix:
-https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/gasto-militar-utn/Herrera-federico.pbix
+
+Link de descarga al archivo final del darboard final: [Archivo pbix Disney+](https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/gasto-militar-utn/Herrera-federico.pbix)
