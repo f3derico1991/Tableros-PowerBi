@@ -1,5 +1,5 @@
 # Tableros-PowerBi
-En este repositorio presento algunos de los dashboars elaborados para algunos de los cursos que he realizado.
+En este repositorio presento algunos de los dashboars elaborados para algunos de los cursos de *Power Bi* que he realizado.
 
 1. [Gasto militar mundial](#id1)
 2. [Producciones Disney Plus](#id2)
