@@ -38,7 +38,7 @@ Analizar el área geográfica donde se concentran los remitentes de los llamados
 Determinar la razón del reclamo más común (Detalle_Reclamo), realizada en el periodo analizado.
 
 ### Resultado final
-<img align="center" alt="GIF" src="https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/taller%20big%20data/Llamados_147.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/taller%20big%20data/Llamados147.gif?raw=true" width="500" height="320" />
 
 ### Archivo .pbx:
 Link de descarga al archivo final del darboard final: [Archivo llamados_147.pbx](https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/taller%20big%20data/Politicas_Publicas.pbix)
