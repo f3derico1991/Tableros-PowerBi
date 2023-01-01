@@ -41,4 +41,4 @@ Determinar la razón del reclamo más común (Detalle_Reclamo), realizada en el 
 <img align="center" alt="GIF" src="https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/taller%20big%20data/Llamados147.gif?raw=true" width="500" height="320" />
 
 ### Archivo .pbx:
-Link de descarga al archivo final del darboard final: [Archivo llamados_147.pbx](https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/taller%20big%20data/Politicas_Publicas.pbix)
+Link de descarga al archivo final del darboard final: [Archivo llamados_147.pbx](https://github.com/f3derico1991/Tableros-PowerBi/blob/main/tableros-PowerBi/taller%20big%20data/Taller_I_Politicas_Publicas%20(1).pbix)
